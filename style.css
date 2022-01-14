@@ -1,0 +1,56 @@
+.bl{
+    background-color: #8fffec;
+}
+.responsive{
+    width: 50%;
+    /* maxwidth is used to make the text responsive when the browser window reduces */
+	max-width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin: 10px 0 0 20px;
+}
+.d-flex{
+	margin: 5% 10% 5% 10%;
+}
+.left{
+	background-color: whitesmoke;
+	height: 600px;
+	width: 1000px;
+    color:black;
+    padding: 10px;
+}
+.bsk{
+    font-size: 100%;
+    font-size: 3vw; 
+
+}
+.right{
+    background-color:#1bb172d7 ;
+    height: 600px;
+    width: 400px;
+    color:rgb(255, 255, 255);
+}
+.new{
+	margin:40px 0 0 20px;
+}
+.forms{
+    margin:5% 20% 20% 0;
+    border-radius: 2%;
+    padding: 5% 0 0 10%;
+}
+#comment{
+    height: 100px;
+    margin-bottom: 10%;
+}
+.unstyled{
+    margin-top: 10%;
+}
+.icons{
+    color:rgb(27, 239, 247);
+}
+i {
+    text-shadow: 2px 4px 6px rgba(0, 204, 255, 0.973);
+}
+.fa{
+    font-size: 50px;
+}
